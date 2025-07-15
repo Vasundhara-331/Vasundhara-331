@@ -6,7 +6,7 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 
 <div align="center">
 
-# 💻 Tech Stack  
+# Tech Stack  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -37,7 +37,7 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-# 📊 GitHub Stats  
+# GitHub Stats  
 ![](https://nirzak-streak-stats.vercel.app/?user=Vasundhara-331&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasundhara-331&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
@@ -49,6 +49,7 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 ---
 
 ## 🛠️ Technical Skills
+A more detailed look at everything I’ve learned and explored throughout this journey.
 
 ### 👨‍💻 Programming Languages
 - **C** – Data structures, algorithms, OS concepts, process/thread management  
