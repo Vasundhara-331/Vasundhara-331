@@ -2,7 +2,7 @@ name: Generate GitHub Contribution Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -22,12 +22,16 @@ jobs:
           github_user_name: Vasundhara-331
           outputs: |
             ./output/github-contribution-grid-snake-dark.svg
-          # Custom colors & speed:
-          # snake_color and bg_color accept hex colors.
-          # speed: higher value = slower snake (default ~60)
-          snake_color: '#38BDF8'        # Tailwind Blue or any color you prefer
-          bg_color: '#000000'           # Black squares background
-          speed: '120'                  # Slow down animation speed (default ~60)
+          snake_color: '#38BDF8'
+          speed: '120'  # slower snake
+
+      - name: Replace contribution squares colors with black
+        run: |
+          sed -i 's/fill:#0e4429/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
+          sed -i 's/fill:#006d32/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
+          sed -i 's/fill:#26a641/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
+          sed -i 's/fill:#39d353/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
+          sed -i 's/fill:#161b22/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
