@@ -91,3 +91,8 @@ A more detailed look at everything I’ve learned and explored throughout this j
 ---
 
 > 🚀 *Let's build something amazing together!*
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Vasundhara-331/Vasundhara-331/output/github-contribution-grid-snake-dark.svg)
+
+</div>
