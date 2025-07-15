@@ -1,6 +1,6 @@
-# 💻 Hey, you! You're finally here!!!!
+# Hey, you! You're finally here!!!!
 
-Hey there! 👋 I'm Vasundhara, a passionate Computer Science undergrad who thrives on building, learning, and experimenting across various domains in tech. I enjoy solving problems, collaborating on exciting projects, and constantly pushing my limits through innovation and development.
+Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives on building, learning, and experimenting across various domains in tech. I enjoy solving problems, collaborating on exciting projects, and constantly pushing my limits through innovation and development.
 
 ---
 
@@ -15,6 +15,7 @@ Hey there! 👋 I'm Vasundhara, a passionate Computer Science undergrad who thri
 [![](https://visitcount.itsvg.in/api?id=Vasundhara-331&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 🛠️ Technical Skills
+A more detailed look at everything I’ve learned and explored throughout this journey.
 
 ### 👨‍💻 Programming Languages
 - **C** – Data structures, algorithms, OS concepts, process/thread management
