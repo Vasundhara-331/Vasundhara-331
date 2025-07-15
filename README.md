@@ -41,8 +41,8 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 ![](https://nirzak-streak-stats.vercel.app/?user=Vasundhara-331&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasundhara-331&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 GitHub Contribution Snake  
 ![snake gif](https://raw.githubusercontent.com/Vasundhara-331/Vasundhara-331/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
