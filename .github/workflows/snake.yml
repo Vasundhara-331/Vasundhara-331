@@ -22,10 +22,8 @@ jobs:
           github_user_name: Vasundhara-331
           outputs: |
             ./output/github-contribution-grid-snake-dark.svg
-          snake_color: '#38BDF8'
-          speed: '120'  # slower snake
 
-      - name: Replace contribution squares colors with black
+      - name: Replace contribution square colors with black
         run: |
           sed -i 's/fill:#0e4429/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
           sed -i 's/fill:#006d32/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
