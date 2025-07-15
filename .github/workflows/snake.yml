@@ -23,7 +23,14 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake-dark.svg
 
-      - name: Replace contribution square colors with black
+      - name: Ensure SVG was generated
+        run: |
+          if [ ! -f "./output/github-contribution-grid-snake-dark.svg" ]; then
+            echo "❌ Snake SVG was not generated"
+            exit 1
+          fi
+
+      - name: Make contribution squares black
         run: |
           sed -i 's/fill:#0e4429/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
           sed -i 's/fill:#006d32/fill:#000000/g' ./output/github-contribution-grid-snake-dark.svg
