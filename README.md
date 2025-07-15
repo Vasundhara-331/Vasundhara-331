@@ -5,7 +5,7 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 ---
 <div align="center">
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -36,7 +36,7 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Vasundhara-331&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vasundhara-331&theme=react&hide_border=true)<br/>
