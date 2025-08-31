@@ -55,12 +55,12 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 
 <div align="center">
   
-  # 🛠️ Technical Skills 
+  # Technical Skills 
 A more detailed look at everything I’ve learned and explored throughout this journey. </div>
 
 <div align="center">
   
-  ### 👨‍💻 Programming Languages </div>
+  ### Programming Languages </div>
 - **C** – Data structures, algorithms, OS concepts, process/thread management  
 - **Java** – Core Java, JDBC, GUI development, OOP, data handling  
 - **Python** – Scripting, automation, data analysis, beginning ML  
@@ -93,7 +93,7 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center">
   
-  ### 🗄️ Database & Backend </div>
+  ### Database & Backend </div>
 - **MySQL** – Database design, relational queries, joins, normalization  
 - **XAMPP** – Local server environment setup for backend testing  
 - **Java JDBC** – Database connectivity and CRUD operations  
