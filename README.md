@@ -72,7 +72,7 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center"> 
   
-  ### 🧠 CS Fundamentals </div>
+  ### CS Fundamentals </div>
 - Data Structures & Algorithms (DSA)  
 - Operating Systems (Process Scheduling, Threads, Banker's Algorithm)  
 - Computer Networks (protocols, socket programming basics)  
@@ -83,7 +83,7 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center">
   
-  ### 📱 App & Web Development </div>
+  ### App & Web Development </div>
 - **Flutter** – Cross-platform mobile development  
 - **JavaFX / Swing** – Desktop-based GUI apps  
 - **HTML/CSS/JS** – Frontend design, basic interactivity  
@@ -103,7 +103,7 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center"> 
   
-  ### 🧪 Development Tools </div>
+  ### Development Tools </div>
 - **Git & GitHub** – Version control and collaborative development  
 - **VS Code / NetBeans** – Primary IDEs  
 - **Figma (Basic)** – UI/UX wireframing  
@@ -112,7 +112,7 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center">
   
-  ### 📊 Additional Tools & Libraries </div>
+  ### Additional Tools & Libraries </div>
 - **NumPy, Pandas** (Basic) – Data analysis in Python  
 - **Matplotlib (Basic)** – Simple data visualizations  
 - **Threading & Semaphores in C** – OS simulations (Dining Philosophers, etc.)  
@@ -122,7 +122,7 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center">
   
-  ## 🌱 Currently Learning </div>
+  ## Currently Learning </div>
 - Deeper dive into **Machine Learning** using Python  
 - **React.js** for better frontend development  
 - System Design and Scalable Architecture  
@@ -131,21 +131,21 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 <div align="center">
   
-  ## 📂 Featured Projects </div>
-- 🚨 **Post-Disaster Burrowing Robot** – A geodata-collecting device with drilling and sensor units for disaster management.  <br>
-- 📲 **OnTrack** – A travel booking and assistant app to help users navigate unfamiliar systems.  <br>
-- 💸 **ShareNSplit** – A finance-splitting app with multiple modes and insightful stats.  <br>
-- 💸 **MaxProfit** – A Python-based stock market analysis tool that helps users find maximum profit opportunities by analyzing time-series data and trends.  <br>
-- ❤️ **CareCraft** – A React + Flask + MySQL-based web application that manages patient records, appointments, billing, and inventory for dental clinics.  <br>
+  ## Featured Projects </div>
+-  **Post-Disaster Burrowing Robot** – A geodata-collecting device with drilling and sensor units for disaster management.  <br>
+-  **OnTrack** – A travel booking and assistant app to help users navigate unfamiliar systems.  <br>
+-  **ShareNSplit** – A finance-splitting app with multiple modes and insightful stats.  <br>
+-  **MaxProfit** – A Python-based stock market analysis tool that helps users find maximum profit opportunities by analyzing time-series data and trends.  <br>
+-  **CareCraft** – A React + Flask + MySQL-based web application that manages patient records, appointments, billing, and inventory for dental clinics.  <br>
 
 ---
 
 <div align="center">
   
-  ## 📫 Get in Touch </div>
+  ## Get in Touch </div>
 - 📧 vasundharasr.331@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vasundhara-s-r/)  
 
 ---
 
-> 🚀 *Let's build something amazing together!*
+>  *Let's build something amazing together!*
