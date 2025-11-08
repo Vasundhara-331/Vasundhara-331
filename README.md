@@ -46,9 +46,9 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 
 
 ## Take a second to look at this guy over here........
-![GitHub Snake Light](https://raw.githubusercontent.com/Vasundhar-331/Vasundhar-331/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Vasundhara-331/Vasundhara-331/output/snake.svg#gh-light-mode-only)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/<Vasundhar-331>/<Vasundhar-331>/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/<Vasundhara-331>/<Vasundhara-331>/output/snake-dark.svg#gh-dark-mode-only)
 
 
 
