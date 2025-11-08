@@ -132,11 +132,10 @@ A more detailed look at everything I’ve learned and explored throughout this j
 <div align="center">
   
   ## Featured Projects </div>
--  **Post-Disaster Burrowing Robot** – A geodata-collecting device with drilling and sensor units for disaster management.  <br>
--  **OnTrack** – A travel booking and assistant app to help users navigate unfamiliar systems.  <br>
 -  **ShareNSplit** – A finance-splitting app with multiple modes and insightful stats.  <br>
 -  **MaxProfit** – A Python-based stock market analysis tool that helps users find maximum profit opportunities by analyzing time-series data and trends.  <br>
 -  **CareCraft** – A React + Flask + MySQL-based web application that manages patient records, appointments, billing, and inventory for dental clinics.  <br>
+-  **Post-Disaster Burrowing Robot** – A geodata-collecting device with drilling and sensor units for disaster management.  <br>
 
 ---
 
@@ -148,4 +147,4 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 ---
 
->  *Let's build something amazing together!*
+>  *The world's exciting people!*
