@@ -150,4 +150,4 @@ A more detailed look at everything I’ve learned and explored throughout this j
 
 ---
 
->  *The world's exciting people!*
+>  *The world's exciting, people!*
