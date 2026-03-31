@@ -37,8 +37,8 @@ Hey there! I'm Vasundhara, a passionate Computer Science undergrad who thrives o
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 # GitHub Stats  
-![](https://nirzak-streak-stats.vercel.app/?user=Vasundhara-331&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.fast.vercel.app/api/top-langs/?username=Vasundhara-331&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vasundhara-331&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vasundhara-331&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## Take a second to look at this guy over here........
